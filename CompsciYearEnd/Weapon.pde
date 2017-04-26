@@ -1,4 +1,4 @@
-/* Class Weapon will be an object representing all of the weapons ex. sword, mace, shield etc. 
+        /* Class Weapon will be an object representing all of the weapons ex. sword, mace, shield etc. 
  all of the weapons (excluding shield) will have damage, accuracy, speed and critical hit multiplier/damage stats.
  The shield on the other hand will have a block chance and defence stat and all other values will be zero. 
  

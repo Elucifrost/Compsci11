@@ -31,9 +31,6 @@ class Entity
   {
     characterStats[0] = new Entity(5, 5, 5, 50, 100);
   }
-
-  <<<<<<< HEAD
-
     Entity[] characterStats = new Entity[8]; 
   {
     /*
