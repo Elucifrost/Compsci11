@@ -1,10 +1,18 @@
 class Armor
 {
-  int health;
-  int speed;
-  int accuracy;
-  Armor [] bonus = new Armor[3];
+  float health;
+  float speed;
+  
+  
+  Armor(float h, float s)
+  {
+   health=h;
+   speed=s;
+  }
+
+
                            
+} 
   
   
   
@@ -12,5 +20,3 @@ class Armor
   
   
   
-  
-}
